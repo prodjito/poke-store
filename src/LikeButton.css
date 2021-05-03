@@ -1,0 +1,9 @@
+.btn-liked {
+    background-color: rgb(14, 163, 168);
+    border-color: rgb(0, 0, 0);
+}
+
+.btn-unliked {
+    background-color: rgb(240, 210, 80);
+    border-color: rgb(0, 0, 0);
+}
